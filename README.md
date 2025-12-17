@@ -29,10 +29,13 @@ This project investigates:
 
 ---
 
-## demo
+## demo and download
 video:https://www.youtube.com/watch?v=VXj2J8SrU-c
 
 asset packages and executable files：https://drive.google.com/drive/folders/1fcU8rQpgb6Nu1G4zs5BdnsEep1YmE6Up?usp=sharing
+
+- Windows executable and assets pack are available in the
+  [GitHub Releases](https://github.com/Natsume0129/history_museum/releases).
 
 <p align="center">
   <img src="README_assets/demo_01.png" width="45%">
