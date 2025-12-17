@@ -35,13 +35,13 @@ video:https://www.youtube.com/watch?v=VXj2J8SrU-c
 asset packages and executable files：https://drive.google.com/drive/folders/1fcU8rQpgb6Nu1G4zs5BdnsEep1YmE6Up?usp=sharing
 
 <p align="center">
-  <img src="README_assets/demo_01.png" width="80%">
-  <img src="README_assets/demo_02.png" width="80%">
+  <img src="README_assets/demo_01.png" width="45%">
+  <img src="README_assets/demo_02.png" width="45%">
 </p>
 
 <p align="center">
-  <img src="README_assets/demo_03.png" width="80%">
-  <img src="README_assets/demo_04.png" width="80%">
+  <img src="README_assets/demo_03.png" width="45%">
+  <img src="README_assets/demo_04.png" width="45%">
 </p>
 
 ---
