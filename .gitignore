@@ -80,3 +80,15 @@ Assets/Fantasy Skybox FREE/
 *.unitypackage
 **/*.fbm/
 Assets/Fantasy Skybox FREE/
+
+
+
+####################################
+# Allow README assets (for GitHub)
+####################################
+!README_assets/
+!README_assets/**
+!README_assets/*.png
+!README_assets/*.jpg
+!README_assets/*.jpeg
+!README_assets/*.gif
