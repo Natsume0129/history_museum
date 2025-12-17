@@ -1,0 +1,82 @@
+####################################
+# Unity auto generated
+####################################
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+####################################
+# IDE / OS
+####################################
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.user
+*.userprefs
+.DS_Store
+Thumbs.db
+desktop.ini
+
+####################################
+# ===== KILL THE REAL SIZE KILLERS =====
+####################################
+
+# --- Fantasy Skybox FREE (HUGE) ---
+Assets/Fantasy Skybox FREE/
+
+# --- Imported model cache folders ---
+*.fbm/
+
+# --- Large cubemaps / textures ---
+*.cubemap
+*.hdr
+*.exr
+*.tga
+*.psd
+*.tif
+*.tiff
+
+# --- Common heavy images ---
+*.png
+*.jpg
+*.jpeg
+
+# --- Fonts & documents ---
+*.ttf
+*.otf
+*.pdf
+
+####################################
+# Audio / Video (not for GitHub)
+####################################
+*.wav
+*.mp3
+*.ogg
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+####################################
+# 3D sources
+####################################
+*.fbx
+*.obj
+*.blend
+*.max
+*.ma
+*.mb
+
+####################################
+# Unity packages
+####################################
+*.unitypackage
+**/*.fbm/
+Assets/Fantasy Skybox FREE/
